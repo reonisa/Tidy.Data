@@ -4,7 +4,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 the data above should be unzipped in working direcotry of R. 
 
-<run_analysis.R> does
+#run_analysis.R does
 
 1. Merge the training and the test sets to create one data set.
 
