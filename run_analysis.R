@@ -39,6 +39,7 @@ filtertData$V1.1 <- factor(filtertData$V1.1,
 
 
 #Appropriately labels the data set with descriptive variable names.
+library(plyr)
 filtertData<-rename(filtertData, c("V1.1"="activity"))
 filtertData<-rename(filtertData, c("V1"="subject"))
 
